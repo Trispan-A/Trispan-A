@@ -15,36 +15,24 @@ I'm a **Backend & Full Stack Developer** passionate about building scalable, eff
 ## 🛠️ Tech Stack
 
 ### Backend
-
-* Node.js
-* Express.js
-* PHP
-* Laravel
-* Django
-* REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,django" />
+</p>
 
 ### Frontend
-
-* React
-* JavaScript
-* TypeScript
-* HTML5
-* CSS3
-* TailwindCSS
-* Bootstrap5
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
+</p>
 
 ### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-* MySQL
-* MongoDB
-
-### Tools & Technologies
-
-* Git & GitHub
-* Postman
-* VS Code
-* JWT
-* API Integration
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
