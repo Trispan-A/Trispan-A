@@ -4,11 +4,11 @@
 
 I'm a **Backend & Full Stack Developer** passionate about building scalable, efficient, and user-friendly web applications. I enjoy solving real-world problems through clean architecture and maintainable code.
 
-* 🔭 Currently working on full-stack web applications
-* 🌱 Currently learning advanced system design, cloud technologies, and DevOps
-* 💡 Interested in backend development, REST APIs, and scalable software architecture
-* 🤝 Open to collaborating on open-source and full-stack projects
-* ⚡ I enjoy turning ideas into reliable software solutions
+* Currently working on full-stack web applications
+* Currently learning advanced system design, cloud technologies, and DevOps
+* Interested in backend development, REST APIs, and scalable software architecture
+* Open to collaborating on open-source and full-stack projects
+* I enjoy turning ideas into reliable software solutions
 
 ---
 
