@@ -47,13 +47,34 @@ I'm a **Backend & Full Stack Developer** passionate about building scalable, eff
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trispan-A&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trispan-A&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Trispan-A&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Trispan-A&theme=tokyo-night&hide_border=true" />
+
+</div>
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Trispan-A
-* LinkedIn: *Add your LinkedIn profile here*
-* Email: *Add your email here*
+<p align="center"> <a href="https://github.com/Trispan-A"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+<a href="https://www.linkedin.com/in/trispan-a-4448b7225"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<a href="mailto:trispan456@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
